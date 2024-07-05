@@ -1,4 +1,0 @@
-{ 
-"fw_version":"ver1.0",
-"fw_size":939568
-}
