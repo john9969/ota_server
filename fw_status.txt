@@ -1,4 +1,4 @@
 { 
-"fw_version":"ver1.1.3",
-"fw_size":1217264
+"fw_version":"ver1.1.4",
+"fw_size":1217920
 }
